@@ -1,0 +1,46 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    display: inline-block;
+
+}
+/* #box1{
+    position: static;
+    top: 40px;
+    
+}
+
+#box2{
+    position: relative;
+    bottom: 90px;
+    left: 10px;
+}
+
+#box3{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+#box4{
+    position: fixed;
+    top: 0px;
+} */
+
+
+#box1{
+    background-image: url(glass_photo.jpg);
+    background-size: cover;
+}
+
+body{
+    background-image: url(horse_image.jpg);
+    background-size: cover;
+}
+
+#box2{
+    background-image: url(horse_image.jpg);
+    background-size: contain;
+}

@@ -1,0 +1,39 @@
+h1{
+    color: blue;
+}
+
+button{
+    color: aquamarine;
+    background-color: blueviolet;
+}
+body{
+    background-color: rgb(212, 159, 168);
+}
+
+p{
+    text-align: left  
+}
+
+#A{
+    font-weight: bold;
+}
+
+#B{
+    font-weight: bolder;
+}
+
+
+#C{
+    font-weight:lighter;
+}
+
+#D{
+    font-weight: normal;
+}
+
+#one{
+    font-family: Arial;
+}
+#two{
+    font-family: cursive;
+}
